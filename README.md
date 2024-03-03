@@ -3,8 +3,7 @@
 Welcome to the Programming 1 course repository! This course serves as an introduction to programming using the C language, providing students with their first encounter with basic problem-solving principles with the aid of computers.
 
 ## Course Overview
-
-The course covers fundamental procedural programming concepts using the C language. It is accompanied by a laboratory component where participants apply what they have learned through a series of exercises, aiming for a deeper understanding of concepts and techniques.
+ECE115 Programming 1 covers fundamental procedural programming concepts using the C language. It is accompanied by a laboratory component where participants apply what they have learned through a series of exercises, aiming for a deeper understanding of concepts and techniques.
 
 ## Course Content
 
@@ -39,4 +38,4 @@ To get started with the course content, navigate to the respective folders for e
    2. Print the lessons
    3. Scheduling a lecture of an existing course
    4. Print the program of the rooms
-   5. Coursew deletion
+   5. Delete course
